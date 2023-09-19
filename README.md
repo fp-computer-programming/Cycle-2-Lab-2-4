@@ -4,7 +4,7 @@
     Cycle 2 Labs
 </h1>
 
-<h2 align="center">Due before 8:30 AM on 9/25</h2>
+<h2 align="center">Due before 8:30 AM on 9/27</h2>
 
 ### Intro to Computer Programming
 ---
